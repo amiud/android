@@ -189,6 +189,7 @@ strong
         background-color: rgb(51, 151, 42, 0.1);
         font-weight: bold;
         text-shadow: 0 0 2px rgba(0, 0, 0, 0.7);
+        padding: 5px;
         border-radius: 5px;
     }
 strong > a
