@@ -103,6 +103,14 @@ picture
         text-align: center;
         padding: 20px 0;
     }
+img.big
+    {
+        width: 90%;
+    }
+img.small
+    {
+        width: 35%;
+    }
 div.video
     {
         text-align: center;
