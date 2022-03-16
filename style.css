@@ -105,12 +105,11 @@ picture
     }
 img.big
     {
-        max-width: 800px;
-        min-width: 300px;
+        width: 80%
     }
 img.small
     {
-        max-width: 280px;
+        max-width: 250px;
     }
 div.video
     {
