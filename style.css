@@ -105,7 +105,7 @@ picture
     }
 img.big
     {
-        width: 80%
+        max-width: 80%
     }
 img.small
     {
